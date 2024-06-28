@@ -1,6 +1,6 @@
 Basic Microservices for Online Shopping Platform
 
-Make sure all three services are running fine locally before doing anything ok, and also here we are using RabbitMq and Reddis too so set them up locally so you would not face any issues while running the APIs locally.
+Make sure all three services are running fine locally before doing anything. Also, here we are using RabbitMq and Reddis too so set them up locally so you would not face any issues while running the APIs locally.
 
 -> ALso change the .env.ex to .env in all three services so it can connect to the database.
 
